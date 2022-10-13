@@ -1,0 +1,251 @@
+# Copies and Copyright-Notice
+#
+#      RegulonDB is free for academic/noncommercial use
+#
+#      database or to eliminate copyright notices from RegulonDB. Furthermore,
+#      User is not entitled to expand RegulonDB or to integrate RegulonDB partly
+#      or as a whole into other databank systems, without prior written consent
+#      from CCG-UNAM.
+#
+#      Please check the license at http://regulondb.ccg.unam.mx/menu/download/full_version/terms_and_conditions.jsp
+#
+# Citation
+#
+#      Gama-Castro S et al. (2016). "RegulonDB version 9.0: high-level integration of gene regulation, coexpression, motif clustering and beyond.",
+#      Nucleic Acids Res. 2016 Jan 4;44(D1):D133-43. doi: 10.1093/nar/gkv1156. Epub 2015 Nov 2.
+#
+#
+# Contact
+#
+#      Person: RegulonDB Team
+#      Web Page: http://regulondb.ccg.unam.mx/menu/about_regulondb/contact_us/index.jsp
+#          (regulondb@ccg.unam.mx)
+#
+#
+# Release: 10.5 Date: 09/13/2018
+# Genome version: U00096.3, Refseq version; NC_000913.3 GI:556503834
+# ___________________________________________________________________________
+# Columns:
+# (1) Transcription Factor (TF) identifier assigned by RegulonDB
+# (2) TF name
+# (3) Gene coding for the TF
+# (4) TF Active Conformations
+# (5) TF Inactive Conformations
+# (6)  Evidence that supports the TF [Evidence name|Evidence type: S = Strong, W = Weak| Evidence code]
+# (7) PMID list
+# (8) Evidence confidence level (Confirmed, Strong, Weak)
+ECK120015994	AcrR	acrR	AcrR	AcrR-Proflavin|AcrR-R6G|AcrR-ethidium	[GEA|W|Gene expression analysis], [IMP|W|Inferred from mutant phenotype], [APPH|S|Assay of protein purified  to homogeneity], [IEP|W|Inferred from expression pattern]	8821940	Strong
+ECK120012595	Ada	ada	Ada|Ada-Methylated		[IDA|S|Inferred from direct assay], [IMP|W|Inferred from mutant phenotype], [APPH|S|Assay of protein purified  to homogeneity], [APPHINH|S|Assay of protein purified to homogeneity from its native host]	11284682, 15305584, 15305585, 16452614, 1995192, 2002008, 2536670, 282622, 2982792, 2987251, 3009022, 3047400, 3141384, 3343221, 3526284, 3529081, 3889845, 7896807, 7937881, 8195077, 8676855, 8720133, 8752326, 8755711, 9383376, 9582376	Strong
+ECK120014170	AdiY	adiY	AdiY		[GEA|W|Gene expression analysis], [HIFS|W|Human inference of function from sequence]	8704970	Weak
+ECK120012515	AgaR	agaR	AgaR		[APPH|S|Assay of protein purified  to homogeneity], [IEP|W|Inferred from expression pattern]	14731281	Strong
+ECK125134683	AidB	aidB	AidB			15977811
+ECK120030264	AlaS	alaS	AlaS-L-alanine			20179335, 23536244, 24493149, 25918376, 27622773
+ECK120015630	AllR	allR	AllR-allantoin|AllR	AllR-glyox	[IEP|W|Inferred from expression pattern], [AUP|W|Assay of unpurified protein]	10601204, 12460564	Weak
+ECK120015636	AllS	allS	AllS-()-(+)-allantoin	AllS
+ECK120012984	AlpA	alpA	AlpA		[IMP|W|Inferred from mutant phenotype]	7511582	Weak
+ECK120011959	AlsR	alsR	AlsR	AlsR-D-allose	[GEA|W|Gene expression analysis], [AIFS|W|Automated inference of function from sequence]	8576032, 9401019	Weak
+ECK120012987	AppY	appY	AppY		[IE|W|Inferred from experiment]	2537825, 27718375, 3295784, 8071219	Weak
+ECK120012316	AraC	araC	AraC-arabinose|AraC	AraC-D-fucose		2231717, 7768852
+ECK120011345	ArcA	arcA	ArcA-Phosphorylated	ArcA	[GEA|W|Gene expression analysis], [APPH|S|Assay of protein purified  to homogeneity], [AIFS|W|Automated inference of function from sequence]	12486057, 1482126, 16849788, 2157156, 2984198, 7699720, 8098993	Strong
+ECK120011202	ArgP	argP	ArgP|ArgP-arginine	ArgP-lysine		2034653, 8825783, 9819053
+ECK120011670	ArgR	argR	ArgR-L-arginine	ArgR		3116542, 3149585, 4555419, 7997172
+ECK120030724	ArsR	arsR	ArsR	ArsR-arsenite|ArsR-antimonite ion
+ECK120026318	AscG	ascG	AscG		[GEA|W|Gene expression analysis], [HIFS|W|Human inference of function from sequence], [APPHINH|S|Assay of protein purified to homogeneity from its native host]	1630307, 19633077	Strong
+ECK120013010	AsnC	asnC	AsnC	AsnC-L-asparagine		6357950, 7686882
+ECK120013014	AtoC	atoC	AtoC-Phosphorylated	AtoC	[GEA|W|Gene expression analysis], [HIFS|W|Human inference of function from sequence]	1482126, 2157156, 2883171, 7699720, 8098993, 8346225	Weak
+ECK125257197	BCCP		BCCP			10542197, 14594796
+ECK120015687	BaeR	baeR	BaeR-Phosphorylated		[GEA|W|Gene expression analysis], [APPH|S|Assay of protein purified  to homogeneity]	12107134, 1482126, 2157156, 7699720, 8098993	Strong
+ECK125145855	BasR	basR	BasR-Phosphorylated		[IDA|S|Inferred from direct assay], [AIFS|W|Automated inference of function from sequence]	10373459, 11222580, 1482126, 15522865, 15556475, 15569938, 15659161, 17686460, 2157156, 7565089, 7699720, 8098993	Strong
+ECK120013017	BetI	betI	BetI	BetI-choline	[APPH|S|Assay of protein purified  to homogeneity], [IEP|W|Inferred from expression pattern], [HIFS|W|Human inference of function from sequence]	1956285, 8626295	Strong
+ECK120012646	BirA	birA	BirA-biotinyl-5'-adenylate	BirA	[IPI|W|Inferred from physical interaction], [HIFS|W|Human inference of function from sequence]	1097077, 11106165, 3325774, 3536662, 366433, 3899863, 4551983, 4583224, 6456358, 7024555, 7945216, 9750231	Weak
+ECK120051438	BluR	bluR	BluR		[APPH|S|Assay of protein purified  to homogeneity], [HIFS|W|Human inference of function from sequence], [IEP|W|Inferred from expression pattern]	15556475, 19240136	Strong
+ECK120029348	BolA	bolA, grxD	BolA		[GEA|W|Gene expression analysis], [HIFS|W|Human inference of function from sequence]	12354237, 2684651, 3053647	Weak
+ECK125145850	BtsR	btsR	BtsR-Phosphorylated		[IMP|W|Inferred from mutant phenotype], [HIFS|W|Human inference of function from sequence]	12618449, 12951338	Weak
+ECK120011235	CRP	crp	CRP-cAMP	CRP	[GEA|W|Gene expression analysis], [IMP|W|Inferred from mutant phenotype], [APPH|S|Assay of protein purified  to homogeneity], [AIFS|W|Automated inference of function from sequence]	10760178, 11742992, 12923087, 1328816, 14638413, 15520470, 16166533, 7551052, 8604346	Strong
+ECK120011250	CadC	cadC	CadC		[IMP|W|Inferred from mutant phenotype]	1370290, 18086202, 7830562	Weak
+ECK120013805	CaiF	caiF	CaiF-L-carnitine			10564497, 8631699, 9573142
+ECK120013750	Cbl	cbl	Cbl	Cbl-APS|Cbl-Thiosulphate	[IE|W|Inferred from experiment]		Weak
+ECK120011953	CdaR	cdaR	CdaR		[GEA|W|Gene expression analysis], [IFC|S|Inferred by functional complementation]	10762278, 14645248	Strong
+ECK125230705	CecR	cecR	CecR		[HIFS|W|Human inference of function from sequence], [IEP|W|Inferred from expression pattern], [AUPEINH|W|Assay of unpurified protein expressed in its native host]	10734204, 15556475, 27112147	Weak
+ECK120012036	ChbR	chbR	ChbR--monoacetylchitobiose 6'-phosphate|ChbR			15066032, 2179047
+ECK125141239	ComR	comR	ComR	ComR-Cu(I)	[AIFS|W|Automated inference of function from sequence], [IEP|W|Inferred from expression pattern], [APPHINH|S|Assay of protein purified to homogeneity from its native host]	15556475, 22089859	Strong
+ECK120011210	CpxR	cpxR	CpxR-Phosphorylated	CpxR	[IPI|W|Inferred from physical interaction], [IEP|W|Inferred from expression pattern], [HIFS|W|Human inference of function from sequence]	1482126, 15686558, 16077119, 16487683, 2157156, 7699720, 7883164, 8098993, 8294007, 9159398	Weak
+ECK120013112	Cra	cra	Cra	Cra-&beta;-D-fructose 1,6-bisphosphate|Cra-&beta;-D-fructofuranose 1-phosphate		1630901, 1851954, 2198273, 8230205, 9371462
+ECK120035002	CreB	creB	CreB-Phosphorylated	CreB		1482126, 2157156, 7699720, 7855419, 8098993
+ECK120013342	CsgD	csgD	CsgD		[IE|W|Inferred from experiment]		Weak
+ECK120012075	CsiR	csiR	CsiR		[IMP|W|Inferred from mutant phenotype]	12446648, 14731280	Weak
+ECK120013061	CspA	cspA	CspA		[TASES|W|Traceable author statement to experimental support], [APPH|S|Assay of protein purified  to homogeneity], [IEP|W|Inferred from expression pattern]	1961761, 28334975, 3553157, 7748932, 8995247	Strong
+ECK125257186	CueR	cueR	CueR-Cu|CueR-Ag|CueR-Au	CueR	[IPI|W|Inferred from physical interaction], [AIFS|W|Automated inference of function from sequence], [IEP|W|Inferred from expression pattern]	10915804, 12958362	Weak
+ECK120011941	CusR	cusR	CusR-P	CusR	[IE|W|Inferred from experiment]		Weak
+ECK120013065	CynR	cynR	CynR|CynR-cyanate			1592818, 7961413, 8253686
+ECK120011312	CysB	cysB	CysB|CysB--acetyl-L-serine|CysB-N-acetyl-L-serine	CysB-Sulphide|CysB-Thiosulfate		1435253, 1541275, 2182030, 3032952, 3094306
+ECK120012407	CytR	cytR	CytR	CytR-cytidine		2162050, 2162467, 3515317, 8346018
+ECK120034977	DcuR	dcuR	DcuR-Phosphorylated	DcuR		9765574
+ECK125235978	DecR	decR	DecR		[HIFS|W|Human inference of function from sequence], [IEP|W|Inferred from expression pattern], [APPPINH|W|Assay of protein partially-purified from its native host]	10734204, 10850996, 15556475, 27435271	Weak
+ECK120012664	DeoR	deoR	DeoR	DeoR-Deoxyribose-5-phosphate	[IE|W|Inferred from experiment]	2653814, 2994018	Weak
+ECK120015690	DhaR	dhaR	DhaR	DhaR-DhaK	[IMP|W|Inferred from mutant phenotype]	15616579	Weak
+ECK120029345	DicA	dicA	DicA		[IFC|S|Inferred by functional complementation], [HIFS|W|Human inference of function from sequence], [APPHINH|S|Assay of protein purified to homogeneity from its native host], [IEP|W|Inferred from expression pattern]	23028867, 3041373, 3053647	Strong
+ECK125257188	DinJ-YafQ	dinJ, yafQ	DinJ-YafQ		[IDA|S|Inferred from direct assay], [IGI|W|Inferred from genetic interaction]	17263853, 19210620	Strong
+ECK120011903	DnaA	dnaA	DnaA-ATP	DnaA	[APPHINH|S|Assay of protein purified to homogeneity from its native host]	10497067, 160412, 27484197, 337131, 6296774, 6310593, 6327277, 9125116	Strong
+ECK120034476	DpiA	dpiA	DpiA-P	DpiA
+ECK120013081	DsdC	dsdC	DsdC-D-serine			6296057, 7592420
+ECK120013085	EbgR	ebgR	EbgR		[IE|W|Inferred from experiment]		Weak
+ECK120035026	EnvR	envR	EnvR		[APPH|S|Assay of protein purified  to homogeneity], [HIFS|W|Human inference of function from sequence]	18567659, 7592375, 8196548	Strong
+ECK120011792	EnvY	envY	EnvY		[IE|W|Inferred from experiment]	2536924	Weak
+ECK120011575	EvgA	evgA	EvgA-Phosphorylated	EvgA
+ECK120012141	ExuR	exuR	ExuR|ExuR-&alpha;-D-galacturonate, &alpha;-D-glucuronate	ExuR-&alpha;-D-glucuronate	[IE|W|Inferred from experiment]	6357945	Weak
+ECK120011229	FNR	fnr	FNR|FNR-[4Fe-4S] reduced	FNR-[2Fe-2S] oxidized	[AIFS|W|Automated inference of function from sequence], [HIFS|W|Human inference of function from sequence], [APPHINH|S|Assay of protein purified to homogeneity from its native host], [APPPINH|W|Assay of protein partially-purified from its native host]	11407111, 11771123, 11931557, 17293415, 1854188, 1957353, 2181237, 2248796, 2677602, 6292868, 7747934, 796407, 8119409, 8412675, 8588737, 8871401, 9230919, 9282732, 9990723	Strong
+ECK120011354	FabR	fabR	FabR		[IDA|S|Inferred from direct assay], [IPI|W|Inferred from physical interaction], [IEP|W|Inferred from expression pattern]	11160901, 11859088	Strong
+ECK120011824	FadR	fadR	FadR	FadR-acyl-CoA	[APPH|S|Assay of protein purified  to homogeneity], [HIFS|W|Human inference of function from sequence], [IEP|W|Inferred from expression pattern]	11566998, 1569108, 2843809, 8446033, 9767562	Strong
+ECK120026337	FeaR	feaR	FeaR		[GEA|W|Gene expression analysis], [HIFS|W|Human inference of function from sequence], [IEP|W|Inferred from expression pattern]	8631685, 9043126	Weak
+ECK120011394	FhlA	fhlA	FhlA-formate	FhlA		2118503, 2280686, 8034727
+ECK120011186	Fis	fis	Fis			1547773, 27718375, 7545153
+ECK125257194	FlhDC	flhC, flhD	FlhDC		[APPH|S|Assay of protein purified  to homogeneity]	12144778, 7961507	Strong
+ECK125141939	FliZ	fliZ	FliZ		[IMP|W|Inferred from mutant phenotype]	18765794	Weak
+ECK125257185	FrmR	frmR	FrmR	FrmR-formol
+ECK120013118	FucR	fucR	FucR-L-fuculose-1-P	FucR		2664711, 3325779
+ECK125257187	Fur	fur	Fur-Fe	Fur		1868094, 2015825, 2823881, 2993806
+ECK120012092	GadE	gadE, gadE, gadE, rcsB, rcsB, rcsB, rcsB, rcsB	GadE		[IE|W|Inferred from experiment]	12399493, 12426343, 12657056, 12694615, 12704134, 12940989, 14702398	Weak
+ECK125257204	GadE-RcsB	gadE, gadE, gadE, rcsB, rcsB, rcsB, rcsB, rcsB	GadE-RcsB		[APPHINH|S|Assay of protein purified to homogeneity from its native host]	20189963	Strong
+ECK120011465	GadW	gadW	GadW		[IE|W|Inferred from experiment], [APPH|S|Assay of protein purified  to homogeneity]	12446650	Strong
+ECK120011458	GadX	gadX	GadX		[GEA|W|Gene expression analysis], [APPH|S|Assay of protein purified  to homogeneity]	11976288, 12446650	Strong
+ECK120012713	GalR	galR	GalR	GalR-&beta;-D-galactose	[IPI|W|Inferred from physical interaction], [IMP|W|Inferred from mutant phenotype], [APPH|S|Assay of protein purified  to homogeneity], [IEP|W|Inferred from expression pattern]	12169637, 15533432, 15807530, 17630975, 6283521, 6350601, 7934815, 8188660, 9218807, 9325090	Strong
+ECK120012704	GalS	galS	GalS	GalS-&beta;-D-galactose	[IMP|W|Inferred from mutant phenotype], [APPH|S|Assay of protein purified  to homogeneity], [IEP|W|Inferred from expression pattern], [HIFS|W|Human inference of function from sequence]	1619663, 1900742, 7934815, 8416900, 8982002	Strong
+ECK120013131	GatR	gatR_2	GatR		[HIFS|W|Human inference of function from sequence]	1661252, 7772602, 8955387	Weak
+ECK120012465	GcvA	gcvA	GcvA	GcvA-gly|GcvA-Purine	[GEA|W|Gene expression analysis], [BPP|S|Binding of purified proteins], [HIFS|W|Human inference of function from sequence]	27718375, 7665470, 8188587, 8375392	Strong
+ECK120011437	GlcC	glcC	GlcC-glycolate|GlcC-Acetate	GlcC
+ECK120012730	GlpR	glpR	GlpR	GlpR--glycerol 3-phosphate|GlpR-glycerol	[IE|W|Inferred from experiment]	1556120, 3316209, 8955387	Weak
+ECK125108627	GlrR	glrR	GlrR-P	GlrR	[IMP|W|Inferred from mutant phenotype], [APPH|S|Assay of protein purified  to homogeneity], [HIFS|W|Human inference of function from sequence]	10734204, 15522865, 15556475, 19843219	Strong
+ECK120012096	GntR	gntR	GntR	GntR-D-gluconate	[IE|W|Inferred from experiment]	4574690, 8655507	Weak
+ECK120013141	GutM	gutM	GutM		[IEP|W|Inferred from expression pattern], [HIFS|W|Human inference of function from sequence]	3062173	Weak
+ECK120011294	H-NS	hns	H-NS		[IPI|W|Inferred from physical interaction], [IMP|W|Inferred from mutant phenotype], [APPH|S|Assay of protein purified  to homogeneity], [HIFS|W|Human inference of function from sequence], [IEP|W|Inferred from expression pattern]	11278074, 15100692, 1537791, 15795232, 15853876, 16384714, 16879983, 1691451, 16980475, 17116239, 17553830, 17827501, 17881364, 2020545, 2126011, 2177526, 2841565, 3135462, 6370250, 7748941, 7934818, 8437561, 8890170, 9513262, 9987132	Strong
+ECK125257184	HU	hupA, hupB	HU		[GEA|W|Gene expression analysis], [APPH|S|Assay of protein purified  to homogeneity], [AIFS|W|Automated inference of function from sequence]	10982882, 11254141, 11601842, 12372591, 227733, 350619, 3514923, 6987059, 9192630, 9218807	Strong
+ECK120015243	HcaR	hcaR	HcaR-HCA|HcaR			15808934, 9603882
+ECK120012250	HdfR	hdfR	HdfR		[GEA|W|Gene expression analysis], [APPH|S|Assay of protein purified  to homogeneity], [APPPINH|W|Assay of protein partially-purified from its native host]	10913108, 21034467	Strong
+ECK125242732	HigA	higA, higA	HigA
+ECK125257189	HigB-HigA	higA, higA, higB	HigB-HigA		[IHBCE|W|Inferred by a human based on computational evidence], [APPHINH|S|Assay of protein purified to homogeneity from its native host]	27601326	Strong
+ECK125257201	HipAB	hipA, hipB, hipB	HipAB		[APPH|S|Assay of protein purified  to homogeneity]	24089363, 8021189	Strong
+ECK120026325	HipB	hipB, hipB	HipB			10844683, 24089363
+ECK125228798	HprR	hprR	HprR-Phosphorylated		[ISM||Inferred from Sequence Model], [HIFS|W|Human inference of function from sequence], [APPHINH|S|Assay of protein purified to homogeneity from its native host], [IEP|W|Inferred from expression pattern]	10734204, 15556475, 25568260	Strong
+ECK120011390	HyfR	hyfR	HyfR		[IE|W|Inferred from experiment]	9387241	Weak
+ECK125141903	HypT	hypT	HypT-Met-oxidized
+ECK125257183	IHF	ihfA, ihfB	IHF		[GEA|W|Gene expression analysis], [IMP|W|Inferred from mutant phenotype], [APPH|S|Assay of protein purified  to homogeneity], [IEP|W|Inferred from expression pattern]	7629095, 7651128, 7715442, 7862094, 8156991, 8230206, 8515442	Strong
+ECK120011897	IclR	iclR	IclR-pyruvate	IclR-glyox	[IPI|W|Inferred from physical interaction], [IFC|S|Inferred by functional complementation], [APPH|S|Assay of protein purified  to homogeneity], [HIFS|W|Human inference of function from sequence]	12492863, 1447784, 1995429, 1995431, 2001680, 2185227, 8265357, 8550439	Strong
+ECK120012101	IdnR	idnR	IdnR-5-ketogluconate|IdnR-Idonate	IdnR		11441462
+ECK120012965	IlvY	ilvY	IlvY-()-2-acetolactate|IlvY-Alfa-acetohydroxybutirate|IlvY			113381, 1379743, 3003115, 3062177
+ECK120011429	IscR	iscR	IscR|IscR-2Fe-2S		[IEP|W|Inferred from expression pattern]	11742080	Weak
+ECK120015250	KdgR	kdgR	KdgR		[IMP|W|Inferred from mutant phenotype], [IEP|W|Inferred from expression pattern]	15659677, 4359651	Weak
+ECK120048960	KdpE	kdpE	KdpE-Phosphorylated	KdpE
+ECK120012762	LacI	lacI	LacI	LacI-allolactose	[IE|W|Inferred from experiment]	1107032, 13718526, 14430363, 2040302, 2178920, 2742823, 3064080, 3286877, 355891, 4571224, 4594037, 8046748	Weak
+ECK120013164	LeuO	leuO	LeuO		[GEA|W|Gene expression analysis], [IE|W|Inferred from experiment], [APPH|S|Assay of protein purified  to homogeneity]	11121424, 15582999, 16207917, 1630901, 3413113, 3519576, 7836317, 9422614	Strong
+ECK120012770	LexA	lexA	LexA			2780544, 6261224, 6272195, 7013987, 7027255, 7027256, 8076591, 8265357
+ECK120013830	LldR	lldR	LldR|LldR-()-lactate		[IE|W|Inferred from experiment]		Weak
+ECK120011328	LrhA	lrhA	LrhA		[GEA|W|Gene expression analysis], [APPH|S|Assay of protein purified  to homogeneity], [HIFS|W|Human inference of function from sequence]	12123461, 7565112, 9882671	Strong
+ECK120011383	Lrp	lrp	Lrp-leucine|Lrp			1346534, 1729203, 2040596, 7665463
+ECK120015681	LsrR	lsrR	LsrR	LsrR-(4S)-4-hydroxy-5-phosphooxypentane-2,3-dione|LsrR-(2R,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran|LsrR-autoinducer 2
+ECK120013175	LysR	lysR	LysR		[IE|W|Inferred from experiment]	6350602	Weak
+ECK120013406	MalI	malI	MalI		[ICA|W|Inferred by computational analysis], [IEP|W|Inferred from expression pattern], [HIFS|W|Human inference of function from sequence]	1856179, 2670898	Weak
+ECK120012218	MalT	malT	MalT-maltotriose-ATP|MalT-ADP-Maltotriose	MalT|MalT-Aes|MalT-MalK|MalT-MalY		2524384, 3015733
+ECK120011412	MarA	marA	MarA		[IE|W|Inferred from experiment]	8383113, 8491710, 8522515	Weak
+ECK120013191	MarR	marR	MarR	MarR-salicylate|MarR-2,4-dinitrophenol|MarR-Benzoate|MarR-Menadione|MarR-Paraquat|MarR-Phenazine methosulfate|MarR-Plumbagin|MarR-Sodium salicylate		8282690, 8383113, 8521301
+ECK125141911	MatA	ecpR	MatA		[AIFS|W|Automated inference of function from sequence], [APPHINH|S|Assay of protein purified to homogeneity from its native host], [IEP|W|Inferred from expression pattern]	15556475, 22422754	Strong
+ECK125140737	MazE	mazE, mazE	MazE
+ECK125257200	MazE-MazF	mazE, mazE, mazF	MazE-MazF		[IE|W|Inferred from experiment]		Weak
+ECK120051441	McbR	mcbR	McbR		[APPPHH|W|Assay of protein partially-purified from a heterologous host], [AIFS|W|Automated inference of function from sequence], [IEP|W|Inferred from expression pattern], [AUP|W|Assay of unpurified protein]	15556475, 18309357, 20713450	Weak
+ECK120012347	MelR	melR	MelR-melibiose|MelR			1445207, 2684786, 2830169, 8010957
+ECK120048948	MetJ	metJ	MetJ-adenosylmethionine	MetJ
+ECK120012802	MetR	metR	MetR-L-homocysteine	MetR		1379743, 2205852, 2643109
+ECK120011482	MhpR	mhpR	MhpR-3-(2,3-dihydroxyphenyl)propionate [DHPP]|MhpR-3HPP	MhpR
+ECK120011240	Mlc	mlc, ptsG	Mlc	Mlc-EIIGlC	[BCE|W|Binding of cellular extracts], [APPH|S|Assay of protein purified  to homogeneity]	10464268, 10469172, 9484892, 9484893, 9767573	Strong
+ECK125134665	MlrA	mlrA	MlrA		[IHBCE|W|Inferred by a human based on computational evidence], [AIFS|W|Automated inference of function from sequence], [APPHINH|S|Assay of protein purified to homogeneity from its native host], [IEP|W|Inferred from expression pattern]	11489123, 12775697, 15556475, 20874755	Strong
+ECK120011949	MngR	mngR	MngR			7805834
+ECK125257190	MntR	mntR	MntR-Mn	MntR	[IHBCE|W|Inferred by a human based on computational evidence], [IPI|W|Inferred from physical interaction], [HIFS|W|Human inference of function from sequence], [IEP|W|Inferred from expression pattern]	11466284, 21908668	Weak
+ECK120011220	ModE	modE	ModE-MoO	ModE
+ECK120011593	MprA	mprA	MprA	MprA-2,4-dinitrophenol|MprA-CCCP|MprA-Carbonyl cyanide p-(trifluoro-methoxy)phenylhydrazone
+ECK120051460	MqsA	mqsA, mqsR	MqsA		[AIFS|W|Automated inference of function from sequence], [APPHINH|S|Assay of protein purified to homogeneity from its native host]	15556475, 19690171, 20105222	Strong
+ECK125165914	MraZ	mraZ	MraZ		[IPI|W|Inferred from physical interaction], [APPHINH|S|Assay of protein purified to homogeneity from its native host], [IEP|W|Inferred from expression pattern], [HIFS|W|Human inference of function from sequence]	24659771	Strong
+ECK120048826	MurR	murR	MurR	MurR-MurNAc-6-P
+ECK120011265	Nac	nac	Nac		[IDA|S|Inferred from direct assay], [IFC|S|Inferred by functional complementation], [HIFS|W|Human inference of function from sequence]	11121068, 9495755	Strong
+ECK120013202	NadR	nadR	NadR
+ECK120011908	NagC	nagC	NagC	NagC--acetyl-D-glucosamine 6-phosphate	[APPH|S|Assay of protein purified  to homogeneity]	11139621, 15066032, 15534208, 15743943, 17238917, 1766379, 1848637, 2190615, 2668691, 7545108	Strong
+ECK120012559	NanR	nanR	NanR	NanR-NANA	[IFC|S|Inferred by functional complementation], [APPH|S|Assay of protein purified  to homogeneity]	12897000	Strong
+ECK120011502	NarL	narL	NarL-Phosphorylated	NarL	[AIFS|W|Automated inference of function from sequence]	1482126, 2066339, 2157156, 2648330, 2649492, 2657652, 7643383, 7699720, 7854119, 8098993, 8501030	Weak
+ECK120011508	NarP	narP	NarP-Phosphorylated	NarP	[AIFS|W|Automated inference of function from sequence]	1482126, 15978080, 2157156, 7699720, 8098993, 8501030, 9302020	Weak
+ECK120035042	NemR	nemR	NemR	NemR-methylglyoxal	[APPH|S|Assay of protein purified  to homogeneity], [HIFS|W|Human inference of function from sequence]	15556475, 18567656	Strong
+ECK120011378	NhaR	nhaR	NhaR-Na	NhaR		1316901, 1630901, 2429258, 3413113, 8168494
+ECK120023539	NikR	nikR	NikR-Cd	NikR
+ECK125228822	NimR	nimR	NimR		[AIFS|W|Automated inference of function from sequence], [APPHINH|S|Assay of protein purified to homogeneity from its native host], [IEP|W|Inferred from expression pattern]	15556475, 25790494	Strong
+ECK120011938	NorR	norR	NorR		[IDA|S|Inferred from direct assay], [IMP|W|Inferred from mutant phenotype], [APPH|S|Assay of protein purified  to homogeneity], [IEP|W|Inferred from expression pattern]	11751865, 12142437, 12529359, 14718666, 15375149, 16193057	Strong
+ECK120033053	NrdR	nrdR	NrdR-Zn|NrdR-dATP|NrdR-ATP
+ECK120016814	NsrR	nsrR	NsrR-[2Fe-2S]reduced|NsrR	NsrR-nitric oxide|NsrR-[2Fe-2S] oxidized
+ECK125257192	NtrC	glnG	NtrC-Phosphorylated	NtrC		10960104, 41243
+ECK125257196	OmpR	ompR	OmpR-Phosphorylated	OmpR		1482126, 16855227, 2157156, 26209678, 2997120, 3010044, 6292199, 7699720, 8098993
+ECK120011302	OxyR	oxyR	OxyR		[APPHINH|S|Assay of protein purified to homogeneity from its native host]	1864839, 2167922, 22539721, 2471187, 2511419, 2551682, 8265357, 8483417	Strong
+ECK120011563	PaaX	paaX	PaaX	PaaX-phenylacetyl-CoA		10766858, 11243806
+ECK125242743	PdeL	pdeL	PdeL
+ECK120012246	PdhR	pdhR	PdhR	PdhR-pyruvate	[GEA|W|Gene expression analysis], [APPH|S|Assay of protein purified  to homogeneity], [HIFS|W|Human inference of function from sequence], [APPP|W|Assay of partially-purified protein]	17513468, 2060763, 7783622, 8057842, 8262214	Strong
+ECK120020634	PepA	pepA	PepA			14741201
+ECK125158270	PgrR	pgrR	PgrR		[HIFS|W|Human inference of function from sequence], [APPPINH|W|Assay of protein partially-purified from its native host]	10734204, 15556475, 23301696	Weak
+ECK120011306	PhoB	phoB	PhoB-Phosphorylated	PhoB	[GEA|W|Gene expression analysis], [APPH|S|Assay of protein purified  to homogeneity], [AIFS|W|Automated inference of function from sequence]	10986267, 1482126, 2157156, 3054125, 324866, 3537313, 6310121, 6343798, 7009567, 7699720, 7855419, 8098993	Strong
+ECK120011492	PhoP	phoP	PhoP-Phosphorylated	PhoP	[AIFS|W|Automated inference of function from sequence]	1482126, 1530848, 15703297, 2157156, 7699720, 8098993	Weak
+ECK120015234	PrpR	prpR	PrpR-(2)-2-methylcitrate		[IDA|S|Inferred from direct assay]	15805526, 27718375	Strong
+ECK120011400	PspF	pspF	PspF
+ECK120012854	PurR	purR	PurR-hypoxanthine|PurR-Guanine	PurR		2211510, 2404765, 3058704
+ECK120012029	PutA	putA	PutA			11294639
+ECK125160661	PuuR	puuR	PuuR	PuuR-putrescine	[IMP|W|Inferred from mutant phenotype], [AIFS|W|Automated inference of function from sequence]	15556475, 15590624	Weak
+ECK120012277	QseB	qseB	QseB-Phosphorylated	QseB	[IE|W|Inferred from experiment]	11929534	Weak
+ECK125257199	RacR	racR	RacR		[IHBCE|W|Inferred by a human based on computational evidence], [AIFS|W|Automated inference of function from sequence], [APPHINH|S|Assay of protein purified to homogeneity from its native host], [IEP|W|Inferred from expression pattern]	10734204, 15556475, 29205228, 29205229	Strong
+ECK120013229	RbsR	rbsR	RbsR	RbsR-D-ribose	[IE|W|Inferred from experiment]	1304370, 7686882	Weak
+ECK125158217	RcdA	rcdA	RcdA		[IMP|W|Inferred from mutant phenotype], [APPH|S|Assay of protein purified  to homogeneity], [AIFS|W|Automated inference of function from sequence], [IEP|W|Inferred from expression pattern]	15556475, 23233451	Strong
+ECK125162247	RclR	rclR	RclR		[HIFS|W|Human inference of function from sequence]	10734204, 15556475	Weak
+ECK120033010	RcnR	rcnR	RcnR	RcnR-nickel|RcnR-Co	[GEA|W|Gene expression analysis], [APPH|S|Assay of protein purified  to homogeneity]	16956381, 17120142, 19703465	Strong
+ECK125257195	RcsAB	rcsA, rcsA, rcsB, rcsB, rcsB, rcsB, rcsB	RcsAB		[GEA|W|Gene expression analysis], [IGI|W|Inferred from genetic interaction], [APPH|S|Assay of protein purified  to homogeneity]	10702265, 12864862, 16000739, 1943696, 1999391, 2404948, 8576059, 9882673	Strong
+ECK120011324	RcsB	bglJ, bglJ, gadE, gadE, gadE, rcsA, rcsA, rcsB, rcsB, rcsB, rcsB, rcsB	RcsB-P	RcsB	[IE|W|Inferred from experiment]	1482126, 1943696, 2157156, 2404948, 7699720, 8098993, 8576059	Weak
+ECK125257193	RcsB-BglJ	bglJ, bglJ, rcsB, rcsB, rcsB, rcsB, rcsB	RcsB-BglJ		[IFC|S|Inferred by functional complementation], [IMP|W|Inferred from mutant phenotype], [IPI|W|Inferred from physical interaction], [APPHINH|S|Assay of protein purified to homogeneity from its native host], [IEP|W|Inferred from expression pattern]	20952573	Strong
+ECK120048934	RelB	relB, relB, relE, relE	RelB
+ECK125257202	RelB-RelE	relB, relB, relE, relE	RelB-RelE		[ICWHO|W|Inferred computationally without human oversight], [APPHINH|S|Assay of protein purified to homogeneity from its native host], [IEP|W|Inferred from expression pattern]	18501926	Strong
+ECK120012877	RhaR	rhaR	RhaR-&alpha;-L-rhamnopyranose			1339463, 1551902, 3316663, 8230210, 8346018
+ECK120012337	RhaS	rhaS	RhaS|RhaS-&alpha;-L-rhamnopyranose			3316663, 8230210, 8346018
+ECK120011190	Rob	rob	Rob		[IE|W|Inferred from experiment]	7896685, 8449900	Weak
+ECK120033066	RstA	rstA	RstA-Phosphorylated	RstA
+ECK120011489	RtcR	rtcR	RtcR		[GEA|W|Gene expression analysis], [HIFS|W|Human inference of function from sequence]	9738023	Weak
+ECK120033905	RutR	rutR	RutR	RutR-uracil|RutR-thymine	[IMP|W|Inferred from mutant phenotype], [APPH|S|Assay of protein purified  to homogeneity], [HIFS|W|Human inference of function from sequence], [AIFS|W|Automated inference of function from sequence]	15556475, 16540542, 17919280	Strong
+ECK120011856	SdiA	sdiA	SdiA		[IE|W|Inferred from experiment]		Weak
+ECK120032161	SgrR	sgrR	SgrR		[IMP|W|Inferred from mutant phenotype]	15522088	Weak
+ECK120012253	SlyA	slyA	SlyA		[IE|W|Inferred from experiment]	10027972, 12057949, 14996792	Weak
+ECK120013242	SoxR	soxR	SoxR|SoxR-[2Fe-2S] oxydized	SoxR-[2Fe-2S] reduced	[APPHINH|S|Assay of protein purified to homogeneity from its native host]	11470373, 1400156, 1653416, 1708380, 7673113	Strong
+ECK120011298	SoxS	soxS	SoxS		[IE|W|Inferred from experiment]	1653416, 1708380, 7891555, 7896696, 8034583, 8226698, 8265357	Weak
+ECK120013144	SrlR	srlR	SrlR	GutR-D-sorbitol	[IEP|W|Inferred from expression pattern], [HIFS|W|Human inference of function from sequence]	3062173	Weak
+ECK120034571	StpA	stpA	StpA		[IE|W|Inferred from experiment]		Weak
+ECK125202685	SutR	sutR	SutR		[AIFS|W|Automated inference of function from sequence], [APPHINH|S|Assay of protein purified to homogeneity from its native host], [IEP|W|Inferred from expression pattern]	10734204, 15556475, 24391520, 25406449	Strong
+ECK120013255	TdcA	tdcA	TdcA		[IE|W|Inferred from experiment]	2660107, 3003533, 7928991, 8413189, 8413267	Weak
+ECK120013259	TdcR	tdcR	TdcR		[IE|W|Inferred from experiment]	2573820, 2660107, 7928991	Weak
+ECK120012482	TorR	torR	TorR-Phosphorylated	TorR-TorI
+ECK120011406	TreR	treR	TreR	TreR-Trehalose|TreR-&alpha;,&alpha;-trehalose 6-phosphate
+ECK120012176	TrpR	trpR	TrpR-tryptophan	TrpR		1740124, 1935980, 2182120, 2207078, 3290685, 3600756, 7001368, 7012834, 8176748
+ECK120051451	TtdR	ttdR	Dan-L-tartrate		[IDA|S|Inferred from direct assay], [HIFS|W|Human inference of function from sequence], [APPHINH|S|Assay of protein purified to homogeneity from its native host], [IEP|W|Inferred from expression pattern], [APPPINH|W|Assay of protein partially-purified from its native host]	10734204, 15556475, 19661178, 20156994	Strong
+ECK120011194	TyrR	tyrR	TyrR-tyrosine|TyrR-L-tryptophan|TyrR-phenylalanine	TyrR	[IMP|W|Inferred from mutant phenotype], [APPHINH|S|Assay of protein purified to homogeneity from its native host]	15049824, 1943694, 3001057, 4887504, 8106498, 8444880, 8449883	Strong
+ECK120048769	UhpA	uhpA	UhpA-Phosphorylated	UhpA
+ECK120012153	UidR	uidR	UidR		[GEA|W|Gene expression analysis], [IEP|W|Inferred from expression pattern]	2823062, 3079718, 3934044, 6276362, 776933, 776934	Weak
+ECK120012165	UlaR	ulaR	UlaR	UlaR-L-ascorbate 6-phosphate	[IEP|W|Inferred from expression pattern]	12374842	Weak
+ECK125228870	UvrY	uvrY	UvrY-Phosphorylated		[GEA|W|Gene expression analysis], [IFC|S|Inferred by functional complementation], [AIFS|W|Automated inference of function from sequence], [IEP|W|Inferred from expression pattern]	11022030, 12193630, 12533459	Strong
+ECK120012145	UxuR	uxuR	UxuR	UxuR-&alpha;-D-glucuronate-&alpha;-D-galacturonate|UxuR-D-fructuronate	[IEP|W|Inferred from expression pattern]	2823062, 3083215	Weak
+ECK120013780	XapR	xapR	XapR-xanthosine|XapR
+ECK120013786	XylR	xylR	XylR-xylose	XylR
+ECK125257198	XynR	xynR	XynR-D-xylonate		[ICWHO|W|Inferred computationally without human oversight], [HIFS|W|Human inference of function from sequence], [APPHINH|S|Assay of protein purified to homogeneity from its native host], [IEP|W|Inferred from expression pattern]	15556475, 29087459	Strong
+ECK120012313	YdeO	ydeO	YdeO		[GEA|W|Gene expression analysis], [IMP|W|Inferred from mutant phenotype], [APPH|S|Assay of protein purified  to homogeneity], [IEP|W|Inferred from expression pattern], [APPHINH|S|Assay of protein purified to homogeneity from its native host], [HIFS|W|Human inference of function from sequence]	12399493, 12694615, 15489450, 20603130, 25375160, 9409145	Strong
+ECK125158221	YdfH	ydfH	YdfH		[HIFS|W|Human inference of function from sequence], [APPHINH|S|Assay of protein purified to homogeneity from its native host], [IEP|W|Inferred from expression pattern]	10734204, 15556475, 22972332	Strong
+ECK125228840	YebK	yebK	YebK	YebK-2-dehydro-3-deoxy-D-gluconate 6-phosphate	[AIFSO|W|Automated inference of function by sequence orthology], [AIFS|W|Automated inference of function from sequence], [HIFS|W|Human inference of function from sequence], [APPHINH|S|Assay of protein purified to homogeneity from its native host]	10734204, 15556475, 21849503, 26121029	Strong
+ECK125135147	YefM	yefM, yefM, yoeB, yoeB	YefM
+ECK125257203	YefM-YoeB	yefM, yefM, yoeB, yoeB	YefM-YoeB		[APPH|S|Assay of protein purified  to homogeneity]	17170003	Strong
+ECK120013665	YeiL	yeiL	YeiL		[GEA|W|Gene expression analysis], [HIFS|W|Human inference of function from sequence]	11101674, 9278503	Weak
+ECK120051444	YgiV	ygiV	YgiV		[AUP|W|Assay of unpurified protein], [IEP|W|Inferred from expression pattern]	18309357	Weak
+ECK125257182	YhaJ	yhaJ	YhaJ		[HIFS|W|Human inference of function from sequence], [APPHINH|S|Assay of protein purified to homogeneity from its native host], [IEP|W|Inferred from expression pattern]	10734204, 15556475, 27713734	Strong
+ECK120014044	YiaJ	yiaJ	YiaJ		[GEA|W|Gene expression analysis], [IMP|W|Inferred from mutant phenotype], [APPH|S|Assay of protein purified  to homogeneity]	10913096, 9525947	Strong
+ECK125228843	YjjQ	yjjQ	YjjQ		[IDA|S|Inferred from direct assay], [IMP|W|Inferred from mutant phenotype], [AIFS|W|Automated inference of function from sequence], [IEP|W|Inferred from expression pattern]	15556475, 17846588, 26078445	Strong
+ECK125158264	YpdB	ypdB	YpdB-Phosphorylated			11361063
+ECK125110189	YqhC	yqhC	YqhC		[HIFS|W|Human inference of function from sequence], [APPHINH|S|Assay of protein purified to homogeneity from its native host], [IEP|W|Inferred from expression pattern]	10734204, 15556475, 20543070	Strong
+ECK125134855	YqjI	yqjI	YqjI	YqjI-Fe|YqjI-nickel
+ECK125257191	ZntR	zntR	ZntR-Cd	ZntR	[GEA|W|Gene expression analysis], [BPP|S|Binding of purified proteins], [HIFS|W|Human inference of function from sequence]	10048032, 10608803	Strong
+ECK120014103	ZraR	zraR	ZraR-Phosphorylated	ZraR	[GEA|W|Gene expression analysis], [IFC|S|Inferred by functional complementation], [HIFS|W|Human inference of function from sequence]	11243806, 1482126, 2157156, 7699720, 8098993	Strong
+ECK120012020	Zur	zur	Zur-Zn	Zur		11523983, 11831459, 11931550, 12904577
